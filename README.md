@@ -1,3 +1,5 @@
+_Please note, the website is currently under development_
+
 ## Introduction ##
 
 Hi, my name is Kyle Mcgill, I'm a passionate and motivated individual who excels at adapting and finding solutions in the Application space. I love challenges and always aspire to better myself through furthering my knowledge in such a rapid paced industry. Im easy to get along with, and can work in teams big and small, I am also extremely proficient at working on my own.
