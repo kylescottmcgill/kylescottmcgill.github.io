@@ -14,13 +14,17 @@ I provide Client facing Support for all our products, as well as development of 
 
 I provide CentOS and Debian based server support, and email and DNS related troubleshooting on an ongoing basis.
 
+**Present - Systems Administration and Website Hosting (2010 - Present)**
+
+I provide Debian based Website Hosting, Domain Name hosting and Email Hosting on an ongoing basis for a small client base.
+
 **Watchdog NZ, Senior Support (Mar 2011 - Mar 2013)**
 
 Watchdog is a leading Education Consultant in New Zealand, we also provide New Zealands School with filtered connections to enable a safe enviroment on the internet.
 
 I was responsible for tier 1 - 2 application support for the KnowledgeNET, Moodle and Student Management System Interoperability with our products. I also provided on site training in our various products all around New Zealand and Australia.
 
-I also did development on inhouse Web Applications and Command Line Applications.
+I also developed on inhouse Web Applications and Command Line Applications.
 
 **Designer Websites, PHP Development, Server Administration (Apr 2010 - Feb 2011)**
 
