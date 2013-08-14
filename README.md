@@ -18,7 +18,9 @@ I provide CentOS and Debian based server support, and email and DNS related trou
 
 Watchdog is a leading Education Consultant in New Zealand, we also provide New Zealands School with filtered connections to enable a safe enviroment on the internet.
 
-Provided tier 1 - 2 application support for the Learning Management System, KnowledgeNET. Support for Government funded Interoperability between Student Management Systems and KnowledgeNET and development on inhouse Web Applications and Command Line Applications.
+I was responsible for tier 1 - 2 application support for the KnowledgeNET, Moodle and Student Management System Interoperability with our products. I also provided on site training in our various products all around New Zealand and Australia.
+
+I also did development on inhouse Web Applications and Command Line Applications.
 
 **Designer Websites, PHP Development, Server Administration (Apr 2010 - Feb 2011)**
 
