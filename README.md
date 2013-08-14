@@ -61,6 +61,15 @@ Management of National and International shipments of Engineering Tool Tips and 
 - Javascript
  - jQuery
  - Backbone.js
+- NodeJS
+ - Express
+ 
+ **Databases**
+ 
+ - MySQL
+ - Postgres
+ - MongoDB
+ - Redis
 
 **Systems Administration**
 
