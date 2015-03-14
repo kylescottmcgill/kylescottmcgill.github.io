@@ -1,0 +1,7 @@
+--- 
+title: rake ~ keeping the script current
+date: 14/10/2011
+description: Making sure the script is actually up to date
+tags: rake, git, toto, blog
+
+So here i was flying features into my blog and i forgot to add everything to my rake comment. As you may or may not know i am turning to keep this entire thing very very simple. If i need to have extra bits and peices then thats fine to come later, however i also start blogs and never finish. So my idea is to keep the entire process very simple, i rake enter in some content and then it automatically publishs up to my git repo and then across to the server. But it doesnt work when you add things into your blog and you dont add it to your rake file you rely on to make things simple :D

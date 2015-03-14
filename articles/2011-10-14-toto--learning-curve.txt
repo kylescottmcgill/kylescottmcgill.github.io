@@ -1,0 +1,7 @@
+--- 
+title: toto ~ learning curve
+date: 14/10/2011
+description: Learning to control and configure the smallest little blog guys out there!
+tags: 
+
+I feel that im starting to come to a close with my styling side of my blog, there is still lots to fix up, not to mention havnt even looked at the site in IE, considering my last post i think it is safe to say i dont care.

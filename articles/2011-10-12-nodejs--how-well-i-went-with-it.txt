@@ -1,0 +1,11 @@
+--- 
+title: NodeJS ~ how well i went with it
+date: 12/10/2011
+description: 
+tags: 
+
+In my opinion, it is a GREAT framework/client-side to server-side framework, and the idea is great however.... I feel that im not up to scratch enough to be able to utilise its full potential, the small application i was building used Express which is a quick dsl and while i got everything i needed up and running it really did start to look messy. 
+
+I believe that my Javascript may need some refactoring however time was/is a little short, so i have had to roll back to Sinatra and Slim from Express and Jade. Both systems are very similar so it ment that i could take the majority out of NodeJS and place it all into my currrrent application in Ruby in no time. But now i feel i have a little more control on what is really going on. I think NodeJS will be the future, however for me i wont be able to use NodeJS to its full potential.
+
+Maybe in another 6 months i will be able to pick it up again and run with it but there are only 18 real hours in the day i can develop :)

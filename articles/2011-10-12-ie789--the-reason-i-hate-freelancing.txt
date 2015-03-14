@@ -1,0 +1,9 @@
+--- 
+title: IE7,8,9 ~ the reason i hate freelancing
+date: 12/10/2011
+description: 
+tags: 
+
+fix ie!
+Im not the best developer in the world, but if every other browser in the world can do it right wft is wrong with MS... There is some seriously broken shit in there, and it just never gets any better either...
+

@@ -1,0 +1,8 @@
+--- 
+title: Still todo!!
+date: 10/10/2011
+description: 
+tags: 
+
+Styling, Subscriptions (by request), twitter feed, G+ Feed, Facebook something. Need to actually get to a point where i can start to just blog/post, opposed to fucking around with the code itself. FYI, Ruby, toto, git, rake all legendary!
+

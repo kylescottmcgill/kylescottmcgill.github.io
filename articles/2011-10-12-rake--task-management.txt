@@ -1,0 +1,9 @@
+--- 
+title: rake ~ task management?
+date: 12/10/2011
+description: rake task management
+tags: 
+
+So it has come to mind that rake could be used to automate tasks, upon asking the Ruby Community on #freenode it was suggested that this is a viable option. It confirmed my thought however would like to know of what the public think? Would you use rake to provide maintaince or automate tasks dynamically? ~ 
+
+A perfect example would be if someone was to sign up to your site, and they had a file store and you wanted to create a unique folder for this account, would you use rake to process this? Or embed this directly into some ruby code? DB Clean up is another good one.... Thoughts and opinions!?!

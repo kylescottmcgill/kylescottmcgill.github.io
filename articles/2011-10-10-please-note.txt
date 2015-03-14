@@ -1,0 +1,9 @@
+--- 
+title: please note
+date: 10/10/2011
+description: Disclamier
+tags: Legal Matters, blog
+
+anything expressed on this blog is of a personal nature and is only my opinion... just for future reference, because chances are i will rant about work, rant about life issues, rant about the the fu*king parking wardon who gave me a ticket... :)
+
+<img src="http://blog.simplr.co.nz/media/posts/what-has-been-seen.jpg" alt="What has been seen can not be unseen" />
