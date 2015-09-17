@@ -1,5 +1,0 @@
-/obelisk/_site/
-/obelisk/_build
-/obelisk/deps
-/obelisk/erl_crash.dump
-*.ez
